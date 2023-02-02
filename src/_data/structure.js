@@ -38,7 +38,7 @@ module.exports = {
 	 *
 	 * Add and Manage Author data in src/_data/authors.json
 	 */
-	g_showAuthors: true,
+	g_showAuthors: false,
 
 	/**
 	 * ===== Display Footer & Social Share Icons =====
@@ -57,7 +57,7 @@ module.exports = {
 	 * if you want Facebook support you'll have to build it yourself.
 	 * https://deletefacebook.com/
 	 */
-	g_showSocialShareIcons: true,
+	g_showSocialShareIcons: false,
 	// Display individual Share Icons. Above must be 'true' for items below to display.
 	g_showShareLinkedIn: true,
 	g_showSharePinterest: true,
@@ -87,7 +87,7 @@ module.exports = {
 	 *        'postListStyle' and 'tagListStyle.'
 	 *
 	 * */
-	postListStyle: 'postslistcards',
+	postListStyle: 'postslistthumbs',
 
 	/**
 	 * ===== Tag List Style Options =====
