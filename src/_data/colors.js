@@ -232,10 +232,12 @@ module.exports = {
 	footerDefault: {
 		barBg: 'bg-white',
 		text: 'text-teal-500',
+		linkHover: 'text-teal-700'
 	},
 	footerCustom: {
 		barBg: 'bg-gray-900',
 		text: 'text-gray-100',
+		linkHover: 'text-gray-300',
 	},
 
 	/**

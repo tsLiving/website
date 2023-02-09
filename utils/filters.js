@@ -32,7 +32,7 @@ module.exports = {
 			remove: /[*+~.·,()'"`´%!?¿:@]/g,
 		})
   },
-  
+
     /**
    * Pass ` | limit(x)` to a Collection loop to limit the number returned
    * Alt = ` | reverse | limit(x)` to return X most recent
@@ -49,6 +49,10 @@ module.exports = {
 	getAuthor: (authors, key) => {
 		let author = authors.filter((a) => a.slug === key)[0]
 		return author
+	},
+
+	navKey: (navPages, key) => {
+		return navPages.filter(n => n.key === key)
 	},
 
 	/**

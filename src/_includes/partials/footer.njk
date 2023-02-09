@@ -1,19 +1,36 @@
 <footer>
   <div class="{{ colors.footerCustom.barBg or colors.footerDefault.barBg }}">
     <div class="max-w-screen-xl px-4 py-12 mx-auto sm:px-6 md:flex md:items-center md:justify-between lg:px-8">
-      <div class="flex justify-center md:order-2 {{ colors.socialIconsCustom or colors.socialIconsDefault }}">
+      <div class="flex justify-center md:order-3 {{ colors.socialIconsCustom or colors.socialIconsDefault }}">
         {% if structure.g_showFooterSocialIcons %}
 
           {# Display Social icons from _data/social.json  #}
           {% for site in social %}
             {% if site.url %}
-              <a aria-label="Link to {{ site.platform }}" alt="Link to {{ site.platform }}" class="hover:{{ colors.socialIconsHoverCustom or colors.socialIconsHoverDefault }}" href="{{ site.url | url }}">
+              <a aria-label="Link to {{ site.platform }}" alt="Link to {{ site.platform }}"
+                 class="hover:{{ colors.socialIconsHoverCustom or colors.socialIconsHoverDefault }}"
+                 href="{{ site.url | url }}">
                 {% svg site.platform, "mx-2 h-6 w-6 fill-current", site.platform, "footer" %}
               </a>
             {% endif %}
           {% endfor %}
 
         {% endif %}
+      </div>
+      <div class="mt-8 md:mt-0 md:order-2">
+        <p class="text-center text-base leading-6 {{ colors.footerCustom.text or colors.footerDefault.text }}">
+          {% set navPages = collections.pages  |  eleventyNavigation |  navKey("footer") %}
+          {# 11ty Nav Plugin loop  #}
+          {% set join = joiner("|") %}
+          {% for entry in navPages %}
+            {{ join() }}
+            <a href="{{ entry.url | url }}"
+               alt="Link to {{ entry.title }}"
+               class=" px-3 py-2 underline {{ colors.footerCustom.text or colors.footerDefault.text }} hover:{{ colors.footerCustom.linkHover or colors.footerDefault.linkHover }} focus:outline-none focus:{{ colors.footerCustom.linkHover or colors.footerDefault.linkHover }} transition duration-150 ease-in-out">
+              {{ entry.title }}
+            </a>
+          {% endfor %}
+        </p>
       </div>
       <div class="mt-8 md:mt-0 md:order-1">
         <p class="text-center text-base leading-6 {{ colors.footerCustom.text or colors.footerDefault.text }}">
