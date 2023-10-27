@@ -4,7 +4,6 @@ backend:
   repo: Morl99/imhgmbh-website
 media_folder: 'src/assets/images'
 public_folder: '/img'
-publish_mode: editorial_workflow
 collections:
   - name: 'page' # Used in routes, e.g., /admin/collections/blog
     description: Seiten die im Menü angezeigt werden können
