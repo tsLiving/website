@@ -4,7 +4,7 @@ const pluginNavigation = require('@11ty/eleventy-navigation')
 const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight')
 const markdownIt = require('markdown-it')
 const markdownItEmoji = require('markdown-it-emoji')
-const pluginSvgSprite = require("eleventy-plugin-svg-sprite");
+const pluginSvgSprite = require('eleventy-plugin-svg-sprite')
 
 // const collections = require('./utils/collections.js')
 const filters = require('./utils/filters.js')
@@ -22,10 +22,9 @@ module.exports = function (eleventyConfig) {
 	eleventyConfig.addPlugin(pluginNavigation)
 	eleventyConfig.addPlugin(syntaxHighlight)
 
-
-  eleventyConfig.addPlugin(pluginSvgSprite, {
-    path: "./src/assets/svg",
-    globalClasses: "fill-current"
+	eleventyConfig.addPlugin(pluginSvgSprite, {
+		path: './src/assets/svg',
+		globalClasses: 'fill-current',
 	})
 
 	/**
@@ -76,7 +75,9 @@ module.exports = function (eleventyConfig) {
 		if (process.env.ELEVENTY_ENV !== 'production')
 			return [...collection.getFilteredByGlob('./src/posts/*.md')]
 		else
-			return [...collection.getFilteredByGlob('./src/posts/*.md')].filter((post) => !post.data.draft)
+			return [...collection.getFilteredByGlob('./src/posts/*.md')].filter(
+				(post) => !post.data.draft
+			)
 	})
 
 	// TAGLIST used from the official eleventy-base-blog  https://github.com/11ty/eleventy-base-blog/blob/master/.eleventy.js
@@ -179,18 +180,18 @@ module.exports = function (eleventyConfig) {
 	// 			},
 	// 		},
 	// 	},
-		// Set local server 404 fallback
-		// callbacks: {
-		// 	ready: function (err, browserSync) {
-		// 		const content_404 = fs.readFileSync('dist/404.html')
+	// Set local server 404 fallback
+	// callbacks: {
+	// 	ready: function (err, browserSync) {
+	// 		const content_404 = fs.readFileSync('dist/404.html')
 
-		// 		browserSync.addMiddleware('*', (req, res) => {
-		// 			// Provides the 404 content without redirect.
-		// 			res.write(content_404)
-		// 			res.end()
-		// 		})
-		// 	},
-		// },
+	// 		browserSync.addMiddleware('*', (req, res) => {
+	// 			// Provides the 404 content without redirect.
+	// 			res.write(content_404)
+	// 			res.end()
+	// 		})
+	// 	},
+	// },
 	// })
 
 	return {
