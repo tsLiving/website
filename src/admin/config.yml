@@ -1,0 +1,35 @@
+backend:
+  name: github
+  branch: main
+  repo: Morl99/imhgmbh-website
+media_folder: 'src/assets/images'
+public_folder: '/img'
+publish_mode: editorial_workflow
+collections:
+  - name: 'page' # Used in routes, e.g., /admin/collections/blog
+    description: Seiten die im Menü angezeigt werden können
+    label: 'Seite' # Used in the UI
+    folder: 'src' # The path to the folder where the documents are stored
+    create: false # Allow users to create new documents in this collection
+    sortable_fields:
+      - 'eleventyNavigation.order'
+    extension: md
+    fields: # The fields for each document, usually in front matter
+      - { label: 'Titel', name: 'title', widget: 'string', required: true }
+      - { label: 'Inhalt', name: 'body', widget: 'markdown' }
+      - label: Navigation
+        name: eleventyNavigation
+        widget: object
+        required: false
+        fields:
+          - name: key
+            label: Menü
+            widget: 'select'
+            options: ['footer', 'main']
+          - name: title
+            title: Titel
+            widget: string
+          - name: order
+            title: Reihenfolge
+            widget: number
+            value_type: int
