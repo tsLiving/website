@@ -149,8 +149,8 @@ module.exports = {
 	buttonDefault: {
 		text: 'text-white',
 		textHover: 'text-white',
-		bg: 'bg-teal-700',
-		bgHover: 'bg-teal-700',
+		bg: 'bg-primary',
+		bgHover: 'bg-primary',
 		border: 'border-teal-900',
 	},
 	buttonCustom: {

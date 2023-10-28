@@ -9,7 +9,12 @@ module.exports = {
 		'./src/_data/structure.js',
 	],
 	theme: {
+	
 		extend: {
+			colors: {
+				primary: "#ADC761",
+				secondary: "#61C7EF",
+			},
 			opacity: (theme) => ({
 				5: '.05',
 				10: '.1',
