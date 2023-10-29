@@ -54,6 +54,6 @@ collections:
           - name: buttonText
             label: Link-Beschriftung
             widget: string
-          - name: buttonUrl
+          - name: buttonURL
             label: Link-Ziel
             widget: string
