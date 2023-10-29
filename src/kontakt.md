@@ -10,4 +10,10 @@ seo:
   title: Kontakt
   description: Ihr direkter Draht zu uns!
 ---
-Schreiben Sie uns eine E-Mail an service@imhgmbh.de, wir melden uns bei Ihnen!
+Lernen Sie uns kennen! Oder haben Sie Fragen?
+
+Schreiben Sie uns eine E-Mail an 
+
+service@imhgmbh.de
+
+wir melden uns kurzftristig bei Ihnen!
