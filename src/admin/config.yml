@@ -33,3 +33,27 @@ collections:
             title: Reihenfolge
             widget: number
             value_type: int
+      - label: Teaser
+        name: heroSettings
+        widget: object
+        required: false
+        fields:
+          - name: headingText
+            label: Überschrift
+            widget: string
+          - name: subheadingText
+            label: Text
+            widget: text
+          - name: bg
+            label: Hintergrund
+            widget: object
+            fields:
+              - name: image
+                label: Bild
+                widget: image
+          - name: buttonText
+            label: Link-Beschriftung
+            widget: string
+          - name: buttonUrl
+            label: Link-Ziel
+            widget: string
