@@ -51,7 +51,7 @@ Wir bieten Ihnen eine Hausverwaltung die digitale Abläufe, zuverlässige und sc
 
 Ihre Immobilie ist unsere Leidenschaft und so engagieren wir uns stets greifbar und in Ihrer Nähe mit dem Fokus auf Ihr Objekt. Dabei helfen uns sachkundige Handwerker und Spezialisten vor Ort.
 
-Lassen Sie sich begeistern und lehnen Sie sich ab sofort einfach zurück und genießen Sie Ihr Objekt nur noch statt sich selbst darum kümmern zu müssen!
+Lassen Sie sich begeistern und lehnen Sie sich ab sofort einfach zurück und genießen Sie Ihr Objekt nur noch, statt sich selbst darum kümmern zu müssen!
 
 ## Was wir machen
 
