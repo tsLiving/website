@@ -10,6 +10,7 @@ const pluginSvgSprite = require('eleventy-plugin-svg-sprite')
 const filters = require('./utils/filters.js')
 const shortcodes = require('./utils/shortcodes.js')
 const pairedshortcodes = require('./utils/paired-shortcodes.js')
+const faviconsPlugin = require('eleventy-plugin-gen-favicons')
 // const transforms = require('./utils/transforms.js')
 
 module.exports = function (eleventyConfig) {
@@ -26,7 +27,7 @@ module.exports = function (eleventyConfig) {
 		path: './src/assets/svg',
 		globalClasses: 'fill-current',
 	})
-
+	eleventyConfig.addPlugin(faviconsPlugin, { outputDir: 'dist' })
 	/**
 	 * Filters
 	 * @link https://www.11ty.io/docs/filters/
