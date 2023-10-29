@@ -17,7 +17,7 @@ Handelsregister: HRB 24077\
 Registergericht: Amtsgericht Bad Kreuznach
 
 **Vertreten durch:**\
-Sven Hoffmann
+Christine Hoffmann
 
 ## Kontakt
 
