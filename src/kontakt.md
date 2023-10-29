@@ -12,8 +12,10 @@ seo:
 ---
 Lernen Sie uns kennen! Oder haben Sie Fragen?
 
-Schreiben Sie uns eine E-Mail an 
+Nehmen Sie Kontakt mit uns auf:
 
-service@imhgmbh.de
+Telefon: +49 (0) 151 15280087
 
-wir melden uns kurzftristig bei Ihnen!
+E-Mail: service@imhgmbh.de
+
+wir melden uns kurzfristig bei Ihnen!
