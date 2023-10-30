@@ -43,7 +43,7 @@ heroSettings:
 ---
 ## Wer wir sind
 
-Ich bin Christine Hoffmann und bin gelernte Bankkauffrau. Ich kümmere mich seit über 20 Jahren um die Verwaltung von Immobilien in Bad Kreuznach und Umgebung.
+Ich bin Christine Hoffmann und gelernte Bankkauffrau. Ich kümmere mich seit über 20 Jahren um die Verwaltung von Immobilien in Bad Kreuznach und Umgebung.
 
 Mit der Immobilien Management Hoffmann GmbH haben Sie nun die Möglichkeit von unserer Expertise zu profitieren. 
 
