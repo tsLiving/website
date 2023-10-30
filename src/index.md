@@ -30,8 +30,8 @@ heroSettings:
     ? mobile
     ? desktop
   buttonBgColor: null
-  subheadingText: zuverlässig, freundlich und nah! Wir sind eine
-    Immobiliengesellschaft mit Sitz in Bad Kreuznach und fühlen uns mit unserer
+  subheadingText: zuverlässig, freundlich und nah! Wir sind Ihre
+    Immobilienverwaltung mit Sitz in Bad Kreuznach und fühlen uns mit unserer
     Region verbunden.
   headingText: Wir verwalten Ihre Immobilien
   subheadingTextColor: null
@@ -43,7 +43,7 @@ heroSettings:
 ---
 ## Wer wir sind
 
-Mein Name ist Christine Hoffmann, ich bin gelernte Bankkauffrau und kümmere mich seit über 20 Jahren um die Verwaltung von Immobilien in Bad Kreuznach und Umgebung.
+Ich bin Christine Hoffmann und bin gelernte Bankkauffrau. Ich kümmere mich seit über 20 Jahren um die Verwaltung von Immobilien in Bad Kreuznach und Umgebung.
 
 Mit der Immobilien Management Hoffmann GmbH haben Sie nun die Möglichkeit von unserer Expertise zu profitieren. 
 
@@ -51,7 +51,7 @@ Wir bieten Ihnen eine Hausverwaltung die digitale Abläufe, zuverlässige und sc
 
 Ihre Immobilie ist unsere Leidenschaft und so engagieren wir uns stets greifbar und in Ihrer Nähe mit dem Fokus auf Ihr Objekt. Dabei helfen uns sachkundige Handwerker und Spezialisten vor Ort.
 
-Lassen Sie sich begeistern und lehnen Sie sich ab sofort einfach zurück und genießen Sie Ihr Objekt nur noch, statt sich selbst darum kümmern zu müssen!
+Lassen Sie sich begeistern und lehnen Sie sich ab sofort einfach zurück und genießen Sie Ihr Objekt, statt sich selbst darum kümmern zu müssen!
 
 ## Was wir machen
 
@@ -59,6 +59,6 @@ Lassen Sie sich begeistern und lehnen Sie sich ab sofort einfach zurück und gen
 * Ordentliche & zuverlässige Bearbeitung von Schäden und Anfragen
 * Online-Postfach für alle Dokumente rund um Ihr Objekt
 * DSGVO konforme und rechtssichere digitale Archivierung von Unterlagen
-* Richtige und saubere Verbuchung von Mieten und Rechnung
+* Richtige und saubere Verbuchung von Mieten und Rechnungen
 * Sachkunde und Erfahrungen zur Wertsteigerung Ihres Objektes
 * Hilfe bei der Vermietung und Verwaltung Ihrer Immobilien
