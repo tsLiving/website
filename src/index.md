@@ -21,7 +21,7 @@ heroSettings:
   buttonTextColor: null
   bg:
     color: null
-    image: /img/houses.jpg
+    image: houses.jpg
     imagePosition: null
     opacityMobile: opacity-50
     opacityDesktop: opacity-75
