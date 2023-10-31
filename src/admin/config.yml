@@ -3,7 +3,7 @@ backend:
   branch: main
   repo: Morl99/imhgmbh-website
 media_folder: 'src/assets/images'
-public_folder: '/img'
+public_folder: ''
 publish_mode: editorial_workflow
 collections:
   - name: 'page' # Used in routes, e.g., /admin/collections/blog
