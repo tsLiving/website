@@ -30,9 +30,9 @@ heroSettings:
     ? mobile
     ? desktop
   buttonBgColor: null
-  subheadingText: zuverlässig, freundlich und nah! Wir sind Ihre
-    Immobilienverwaltung mit Sitz in Bad Kreuznach und fühlen uns mit unserer
-    Region verbunden.
+  subheadingText: zuverlässig, freundlich und nah! Wir sind Ihre Hausverwaltung
+    mit Sitz in Bad Kreuznach und fühlen uns seit je her mit unserer Region
+    verbunden.
   headingText: Wir verwalten Ihre Immobilien
   subheadingTextColor: null
   headingTextColor: null
