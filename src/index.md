@@ -1,5 +1,5 @@
 ---
-title: Ihre IMH GmbH
+title: Ihre Hausverwaltung IMH GmbH
 layout: page
 excerpt: null
 eleventyNavigation:
