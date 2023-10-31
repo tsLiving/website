@@ -21,7 +21,7 @@ heroSettings:
   buttonTextColor: null
   bg:
     color: null
-    image: /img/houses.jpg
+    image: houses.jpg
     imagePosition: null
     opacityMobile: opacity-50
     opacityDesktop: opacity-75
@@ -47,7 +47,7 @@ Ich bin Christine Hoffmann und gelernte Bankkauffrau. Ich kümmere mich seit üb
 
 Mit der Immobilien Management Hoffmann GmbH haben Sie nun die Möglichkeit von unserer Expertise zu profitieren. 
 
-Wir bieten Ihnen eine Hausverwaltung die digitale Abläufe, zuverlässige und schnelle Beantwortung von Anfragen, pünktliche Erstellung von richtigen Abrechnungen und unkomplizierte Abwicklung von Schäden anbietet. 
+Wir bieten Ihnen eine Hausverwaltung die digitale Abläufe, zuverlässige und schnelle Beantwortung von Anfragen, pünktliche Erstellung von richtigen Abrechnungen und unkomplizierte Abwicklung von Schäden anbietet.
 
 Ihre Immobilie ist unsere Leidenschaft und so engagieren wir uns stets greifbar und in Ihrer Nähe mit dem Fokus auf Ihr Objekt. Dabei helfen uns sachkundige Handwerker und Spezialisten vor Ort.
 
