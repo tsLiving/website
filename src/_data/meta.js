@@ -2,7 +2,7 @@ module.exports = {
 	siteURL: process.env.URL || 'https://imhgmbh.de',
 	siteName: 'IMH GmbH',
 	siteDescription: 'IMH GmbH Immobilienmanagement Hoffmann in Bad Kreuznach',
-	siteImage: '/assets/images/logo.png',
+	siteImage: '/assets/images/logo.jpg',
 	lang: 'de',
 	locale: 'de_de',
 	authorName: 'Sven Hoffmann',
