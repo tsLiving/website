@@ -13,7 +13,7 @@
   <subtitle>{{ meta.siteDescription }}</subtitle>
   <link href="{{ meta.siteURL }}"/>
   <link href="{{ absolutePageUrl }}" rel="self"/>
-  <updated>{{ collections.post | rssLastUpdatedDate }}</updated>
+  <updated>{{ collections.post | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
   <id>{{ meta.siteURL }}</id>
   <author>
     <name>{{ meta.authorName }}</name>
@@ -24,7 +24,7 @@
     <entry>
       <title>{{ post.data.title }}</title>
       <link href="{{ absolutePostUrl }}"/>
-      <updated>{{ post.date | rssDate }}</updated>
+      <updated>{{ post.date | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
       <id>{{ absolutePostUrl }}</id>
       <content type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
     </entry>
