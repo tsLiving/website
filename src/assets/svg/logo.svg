@@ -27,6 +27,6 @@
     </g>
     <g id="Group" transform="matrix(1, 0, 0, 1, 93.411736, 48.624668)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect id="Rectangle-67" x="0" y="0" width="144" height="20"></rect>
-        <text id="headerText.accent" line-spacing="18" data-text-alignment="C" style="fill: rgb(6, 84, 113); font-family: &quot;Overpass Mono&quot;; font-size: 33px; font-weight: 700; white-space: pre;" x="27.648" y="16">IMH GmbH</text>
+        <text id="headerText.accent" line-spacing="18" data-text-alignment="C" style="fill: rgb(90, 58, 30); font-family: &quot;Overpass Mono&quot;; font-size: 33px; font-weight: 700; white-space: pre;" x="27.648" y="16">TSLiving</text>
     </g>
 </svg>

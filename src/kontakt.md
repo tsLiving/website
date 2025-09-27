@@ -16,6 +16,6 @@ Nehmen Sie Kontakt mit uns auf:
 
 Telefon: +49 (0) 151 15280087
 
-E-Mail: service@imhgmbh.de
+E-Mail: info@tsliving.de
 
 wir melden uns kurzfristig bei Ihnen!

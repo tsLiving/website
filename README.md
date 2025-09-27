@@ -1,5 +1,5 @@
-# Website for IMH GmbH
+# Website for TSLiving
 
-This website is created with the awesome [11ty](https://11ty.dev) and based on a starter project called [11ta](https://github.com/11ta/11ta-template) by [Shane Robinson](https://github.com/shanerobinson) for which I am really greatful, because it is always a lot easier to start a new project based on a working site, rather than an empty directory. The website is deployed to Netlify, which is just as awesome and makes developing and deploying websites a breeze.
+This website is created with [11ty](https://11ty.dev) and based on a starter project called [11ta](https://github.com/11ta/11ta-template) by [Shane Robinson](https://github.com/shanerobinson). The website is deployed to Netlify.
 
-I have created this website for a small company that is owned by my brother as a birthday gift, and you can regard it as a hobby project. Feel free to use it according to the MIT license.
+TSLiving is your partner for modern living spaces and innovative real estate solutions. This website showcases our services and expertise in the real estate sector.

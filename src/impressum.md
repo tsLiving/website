@@ -9,25 +9,25 @@ eleventyNavigation:
 ---
 ## Angaben gemäß § 5 TMG
 
-IMH GmbH\
-Guldentaler Weg 8\
-55545 Bad Kreuznach
+TSLiving GmbH\
+Musterstraße 123\
+10115 Berlin
 
-Handelsregister: HRB 24077\
-Registergericht: Amtsgericht Bad Kreuznach
+Handelsregister: HRB XXXXX\
+Registergericht: Amtsgericht Berlin-Charlottenburg
 
 **Vertreten durch:**\
-Christine Hoffmann
+Die Geschäftsführung
 
 ## Kontakt
 
-Telefon: +49 (0) 151 15280087\
-E-Mail: service@imhgmbh.de
+Telefon: +49 (30) 123-4567\
+E-Mail: info@tsliving.de
 
 ## Umsatzsteuer-ID
 
 Umsatzsteuer-Identifikationsnummer gemäß § 27 a Umsatzsteuergesetz:\
-DE311579560
+DE000000000
 
 ## Verbraucher­streit­beilegung/Universal­schlichtungs­stelle
 
