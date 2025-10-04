@@ -12,8 +12,14 @@ module.exports = {
 	
 		extend: {
 			colors: {
-				primary: "#ADC761",
-				secondary: "#61C7EF",
+				// TSLiving Hauptfarben
+				brown: {
+					DEFAULT: '#5A3A1E', // Dunkelbraun - Hauptfarbe
+					light: '#B67B4C',   // Kupferbraun - Highlightfarbe
+				},
+				// TSLiving Nebenfarben
+				silver: '#E5E5E5',      // Silbergrau hell
+				charcoal: '#2E2E2E',    // Anthrazit
 			},
 			opacity: (theme) => ({
 				5: '.05',

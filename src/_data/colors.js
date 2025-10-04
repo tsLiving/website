@@ -11,7 +11,7 @@ module.exports = {
 	 * ===== Global Site Text Color =====
 	 */
 	siteTextDefault: 'text-gray-900',
-	siteTextCustom: 'text-[#2E2E2E]',
+	siteTextCustom: 'text-charcoal',
 
 	/**
 	 * Reason for both 'xxxDefault' and 'xxxCustom'
@@ -59,12 +59,12 @@ module.exports = {
 	 *  If you delete any variable keys, 11ty won't work.
 	 */
 	navCustom: {
-		barBg: 'bg-[#5A3A1E]',
-		text: 'text-[#FFFFFF]',
-		textActive: 'text-[#B67B4C]',
-		textHover: 'text-[#B67B4C]',
-		textActiveBg: 'bg-[#E5E5E5]',
-		textFocus: 'text-[#B67B4C]',
+		barBg: 'bg-silver',
+		text: 'text-brown',
+		textActive: 'text-white',
+		textHover: 'text-brown-light',
+		textActiveBg: 'bg-brown-light',
+		textFocus: 'text-brown-light',
 		mobileBg: '',
 		mobileBgActive: 'bg-gray-700',
 		mobileBgHover: 'bg-gray-100',
@@ -87,9 +87,9 @@ module.exports = {
 		hover: 'text-teal-600',
 	},
 	logoCustom: {
-		desktop: 'text-[#5A3A1E]',
-		mobile: 'text-[#5A3A1E]',
-		hover: 'text-[#B67B4C]',
+		desktop: 'text-brown',
+		mobile: 'text-brown',
+		hover: 'text-brown-light',
 	},
 
 	/**
@@ -99,8 +99,8 @@ module.exports = {
 	 * For content headings added by Editors in .md files,
 	 * manage those in /src/assets/css/tailwind.css
 	 */
-	headingsDefault: 'text-[#5A3A1E]',
-	headingsCustom: 'text-[#5A3A1E]',
+	headingsDefault: 'text-brown',
+	headingsCustom: 'text-brown',
 
 	/**
 	 * ===== Excerpts on Post Lists
@@ -156,9 +156,9 @@ module.exports = {
 	buttonCustom: {
 		text: 'text-white',
 		textHover: 'text-white',
-		bg: 'bg-[#5A3A1E]',
-		bgHover: 'bg-[#B67B4C]',
-		border: 'border-[#5A3A1E]',
+		bg: 'bg-brown',
+		bgHover: 'bg-brown-light',
+		border: 'border-brown',
 	},
 
 	/**
@@ -235,9 +235,9 @@ module.exports = {
 		linkHover: 'text-teal-700'
 	},
 	footerCustom: {
-		barBg: 'bg-[#5A3A1E]',
-		text: 'text-[#FFFFFF]',
-		linkHover: 'text-[#B67B4C]',
+		barBg: 'bg-brown',
+		text: 'text-white',
+		linkHover: 'text-brown-light',
 	},
 
 	/**

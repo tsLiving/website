@@ -21,15 +21,10 @@ heroSettings:
   buttonTextColor: null
   bg:
     color: null
-    image: houses.jpg
+    image: construction.jpg
     imagePosition: center
     opacityMobile: opacity-50
     opacityDesktop: opacity-75
-  buttonBgHover: null
-  height:
-    mobile: h-96
-    desktop: h-128
-  buttonBgColor: null
   subheadingText: Bauen. Sanieren. Perfektionieren.
   headingText: Ihr Partner für anspruchsvolle Bauprojekte
   subheadingTextColor: null
