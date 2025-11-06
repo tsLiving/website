@@ -9,7 +9,7 @@ eleventyNavigation:
 seo:
   title: TSLiving - Kompetenz in Neubau und Sanierung
   description: Seit 20 Jahren Ihr verlässlicher Partner für anspruchsvolle Bauprojekte - von der Planung bis zur Fertigstellung
-  image: /assets/svg/logo-placeholder.svg
+  image: /assets/svg/logo-landscape.svg
 hero: graphic
 heroSettings:
   carousel:
@@ -36,7 +36,7 @@ heroSettings:
 ---
 ## Kompetenz und Erfahrung
 
-<!-- TODO: Neues TSLiving Logo hier einfügen -->
+![TSLiving Logo](/assets/svg/logo-landscape.svg)
 
 TS Living steht für umfassende Baukompetenz, Verlässlichkeit und moderne Lösungen. Seit fast 20 Jahren ist Gründer und Inhaber Tim Strohmaier im Bausektor tätig und hat in dieser Zeit anspruchsvolle Projekte im Neubau, in der Sanierung und im Umbau erfolgreich realisiert. Mit fundierter technischer Expertise und einem gewachsenen Netzwerk aus erfahrenen Fachkräften bündelt TS Living alle entscheidenden Leistungen unter einem Dach – von der Planung bis zur Fertigstellung.
 
