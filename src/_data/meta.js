@@ -2,7 +2,7 @@ module.exports = {
 	siteURL: process.env.URL || 'https://tsliving.de',
 	siteName: 'TSLiving',
 	siteDescription: 'TSLiving - Bauen. Sanieren. Perfektionieren.',
-	siteImage: '/assets/svg/logo-placeholder.svg',
+	siteImage: '/assets/svg/logo-landscape.svg',
 	lang: 'de',
 	locale: 'de_de',
 	authorName: 'TSLiving Team',
